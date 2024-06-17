@@ -1,10 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@500&family=Poppins:wght@400;500&family=Roboto:wght@100;400&display=swap');
 
+<<<<<<< HEAD
 * {
+=======
+
+*{
+>>>>>>> f0c1f0400c6af5994af311127581f03998382092
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+<<<<<<< HEAD
 
 body, html {
   overflow-x: hidden;
@@ -21,6 +27,20 @@ ul {
 }
 
 .navbar {
+=======
+a{
+  text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+.active{
+  color: #fc036b;
+  text-decoration: underline;
+  font-weight: bold;
+}
+.navbar{
+>>>>>>> f0c1f0400c6af5994af311127581f03998382092
   position: absolute;
   top: 0;
   left: 0;
@@ -28,6 +48,7 @@ ul {
   width: 100%;
   justify-content: space-between;
   padding: 20px;
+<<<<<<< HEAD
   background-color: rgba(0, 0, 0, 0.7);
   color: whitesmoke;
   transition: background-color 0.3s ease-in-out;
@@ -119,6 +140,21 @@ ul {
 header {
   width: 100vw;
   height: 80vh;
+=======
+  color: whitesmoke;
+}
+.nav-links{
+  display: flex;
+  align-items: center;
+}
+.nav-links li{
+  margin: 0 30px;
+}
+
+header{
+  width: 100vw;
+  height: 100vh;
+>>>>>>> f0c1f0400c6af5994af311127581f03998382092
   background-image: url('./img/bigben.jpg');
   background-position: bottom;
   background-size: cover;
@@ -127,6 +163,7 @@ header {
   justify-content: center;
 }
 
+<<<<<<< HEAD
 .header-content {
   margin-bottom: 100px;
   color: whitesmoke;
@@ -142,6 +179,22 @@ header {
   height: 4px;
   background: #fc036b;
   margin: 10px auto;
+=======
+.header-content{
+  margin-bottom: 150px;
+  color:whitesmoke;
+  text-align: center;
+}
+
+.header-content h2{
+  font-size: 4vmin;
+}
+.line{
+  width: 150px;
+  height: 4px;
+  background: #fc036b;
+  margin: 10px;
+>>>>>>> f0c1f0400c6af5994af311127581f03998382092
   border-radius: 5px;
 }
 
@@ -151,24 +204,39 @@ header {
   margin-bottom: 30px;
 }
 
+<<<<<<< HEAD
 .ctn {
   padding: 8px 15px;
+=======
+.ctn{
+  padding:  8px 15px;
+>>>>>>> f0c1f0400c6af5994af311127581f03998382092
   background: #fc036b;
   border-radius: 30px;
   color: whitesmoke;
 }
+<<<<<<< HEAD
 
 section {
+=======
+/*texto*/
+section{
+>>>>>>> f0c1f0400c6af5994af311127581f03998382092
   width: 80%;
   margin: 80px auto;
 }
 
+<<<<<<< HEAD
 .title {
+=======
+.title{
+>>>>>>> f0c1f0400c6af5994af311127581f03998382092
   text-align: center;
   font-size: 4vmin;
   color: #49497e;
 }
 
+<<<<<<< HEAD
 .row {
   display: flex;
   align-items: center;
@@ -327,3 +395,6 @@ p {
   font-size: 12px;
   color: #777;
 }
+=======
+
+>>>>>>> f0c1f0400c6af5994af311127581f03998382092
