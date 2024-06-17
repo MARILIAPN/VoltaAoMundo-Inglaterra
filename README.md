@@ -11,7 +11,7 @@ Esse projeto foi criado com o intuito de avaliação do professor Junior Gonçal
 - [x] **Design Completo**
 - [x] **Sistema de Autenticação**
 - [x] **Proteção contra SQL Injection**
-- [ ] **Cadastrar Novo Usuário com Senha Criptografada**
+- [x] **Cadastrar Novo Usuário com Senha Criptografada**
 - [x] **Página "Envie um Comentário" (Gravar no BD)**
 - [x] **Painel Administrativo Mostrando Comentários (Consultar o BD)**
 - [x] **Modelar Comentários: Aprovar ou Reprovar (Alterar o BD)**
